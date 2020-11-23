@@ -5,7 +5,8 @@ To download and extract the face tracks from voxceleb1, run download_voxceleb1.s
 
 ## Example data
 Given this [youtube video](https://www.youtube.com/watch?v=2pjtLxYVUtY), this script will extract the following clips.
-(The clips below gifs, but the extracted ones will be mp4s with sound)
+
+(The clips below are gifs, but the extracted ones will be mp4s with sound)
 
 ![](./assets/1.gif)
 ![](./assets/2.gif)
